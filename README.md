@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeoffreyLewis78
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning ... Unity, C#, GitHub, SwiftUI
   
 
