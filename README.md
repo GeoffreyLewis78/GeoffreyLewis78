@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @GeoffreyLewis78
+👋 Hi, I’m Geoff (he/him)  
 
-- 🌱 I’m currently learning ... Unity, C#, GitHub, SwiftUI
-  
+🌱 Currently exploring: SwiftUI, Unity, C#, and Linux From Scratch  
 
-<!---
-GeoffreyLewis78/GeoffreyLewis78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Interests & Skills:  
+- Game development and interactive learning  
+- Swift (app development, SwiftUI), Shell scripting  
+- Building clean, reproducible OS environments  
+
+📫 Reach me via GitHub discussions or issues if you want to chat about tech.
