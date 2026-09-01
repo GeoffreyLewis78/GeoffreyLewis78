@@ -45,3 +45,13 @@ I document projects, experiments, and what I'm learning on my blog:
 📝 **[Geoff Lewis | Personal Blog](https://geofflewis78.wordpress.com/)**
 
 Topics include software development, Linux, technical projects, troubleshooting, and learning new technologies.
+
+## Currently Learning & Exploring
+
+- Swift & SwiftUI
+- JavaScript & TypeScript
+- C# & Python
+- SQL & Relational Databases
+- Linux, Bash & Automation
+- Docker & Containerisation
+- Git, CI/CD & DevOps Fundamentals
