@@ -2,7 +2,7 @@
 
 I'm an IT professional with experience in technical support, systems administration, enterprise hardware, and IT lifecycle management.
 
-I'm currently building on that experience through software development, automation, Linux, and DevOps using hands-on projects and self-directed learning.
+I'm building on that experience through software development, automation, Linux, and DevOps, using hands-on projects and self-directed learning.
 
 I'm particularly interested in how software, infrastructure, and automation fit together.
 
@@ -26,9 +26,6 @@ A bill-splitting app created while working through *100 Days of SwiftUI*.
 
 🌍 **[GuessTheFlag](https://github.com/GeoffreyLewis78/GuessTheFlag)**  
 A simple SwiftUI game focused on user interaction and application structure.
-
-🌐 **[GitHub Pages / Jekyll](https://github.com/GeoffreyLewis78/github-pages-with-jekyll)**  
-An early project exploring static websites, GitHub Pages, and Jekyll.
 
 ## How I Learn
 
